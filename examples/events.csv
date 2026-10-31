@@ -1,0 +1,8 @@
+# action,id,side,price_ticks,quantity
+ADD,bid-1,B,100,10
+ADD,bid-2,B,100,5
+ADD,ask-1,S,102,7
+ADD,taker-1,B,103,9
+REPLACE,bid-1,B,101,8
+ADD,taker-2,S,100,6
+CANCEL,bid-2,B,0,0
